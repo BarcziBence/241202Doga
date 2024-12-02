@@ -1,0 +1,14 @@
+C:\Users\barczi.bence\Desktop\241202\BarcziBence_241202_Doga\bin\Debug\net8.0\BarcziBence_241202_Doga.exe
+C:\Users\barczi.bence\Desktop\241202\BarcziBence_241202_Doga\bin\Debug\net8.0\BarcziBence_241202_Doga.deps.json
+C:\Users\barczi.bence\Desktop\241202\BarcziBence_241202_Doga\bin\Debug\net8.0\BarcziBence_241202_Doga.runtimeconfig.json
+C:\Users\barczi.bence\Desktop\241202\BarcziBence_241202_Doga\bin\Debug\net8.0\BarcziBence_241202_Doga.dll
+C:\Users\barczi.bence\Desktop\241202\BarcziBence_241202_Doga\bin\Debug\net8.0\BarcziBence_241202_Doga.pdb
+C:\Users\barczi.bence\Desktop\241202\BarcziBence_241202_Doga\obj\Debug\net8.0\BarcziBence_241202_Doga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barczi.bence\Desktop\241202\BarcziBence_241202_Doga\obj\Debug\net8.0\BarcziBence_241202_Doga.AssemblyInfoInputs.cache
+C:\Users\barczi.bence\Desktop\241202\BarcziBence_241202_Doga\obj\Debug\net8.0\BarcziBence_241202_Doga.AssemblyInfo.cs
+C:\Users\barczi.bence\Desktop\241202\BarcziBence_241202_Doga\obj\Debug\net8.0\BarcziBence_241202_Doga.csproj.CoreCompileInputs.cache
+C:\Users\barczi.bence\Desktop\241202\BarcziBence_241202_Doga\obj\Debug\net8.0\BarcziBence_241202_Doga.dll
+C:\Users\barczi.bence\Desktop\241202\BarcziBence_241202_Doga\obj\Debug\net8.0\refint\BarcziBence_241202_Doga.dll
+C:\Users\barczi.bence\Desktop\241202\BarcziBence_241202_Doga\obj\Debug\net8.0\BarcziBence_241202_Doga.pdb
+C:\Users\barczi.bence\Desktop\241202\BarcziBence_241202_Doga\obj\Debug\net8.0\BarcziBence_241202_Doga.genruntimeconfig.cache
+C:\Users\barczi.bence\Desktop\241202\BarcziBence_241202_Doga\obj\Debug\net8.0\ref\BarcziBence_241202_Doga.dll

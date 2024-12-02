@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BarcziBence_241202_Doga/1.0.0": {
+        "runtime": {
+          "BarcziBence_241202_Doga.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BarcziBence_241202_Doga/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
